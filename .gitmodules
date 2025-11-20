@@ -1,10 +1,10 @@
-[submodule "AION"]
-	path = AION
-	url = https://github.com/ASKabalan/AION.git
 [submodule "astroPT"]
 	path = astroPT
-	url = git@github.com:jzoubian/astroPT.git
+	url = https://github.com/astroinfo-hacks/astroPT.git
 	branch = astroinfo
+[submodule "AION"]
+	path = AION
+	url = https://github.com/astroinfo-hacks/AION.git
 [submodule "AstroCLIP"]
 	path = AstroCLIP
-	url = https://github.com/Annapreto23/AstroCLIP.git
+	url = https://github.com/astroinfo-hacks/AstroCLIP.git
