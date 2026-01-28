@@ -1,13 +1,3 @@
-[submodule "astroPT"]
-	path = astroPT
-	url = https://github.com/astroinfo-hacks/astroPT.git
-	branch = astroinfo
-[submodule "AION"]
-	path = AION
-	url = https://github.com/astroinfo-hacks/AION.git
-[submodule "AstroCLIP"]
-	path = AstroCLIP
-	url = https://github.com/astroinfo-hacks/AstroCLIP.git
 [submodule "external/AION"]
 	path = external/AION
 	url = https://github.com/ASKabalan/AION.git
